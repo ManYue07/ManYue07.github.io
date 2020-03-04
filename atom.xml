@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-02T03:52:48.065Z</updated>
+  <updated>2020-03-04T03:06:36.606Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020 Week Progress - March 4th</title>
+    <link href="http://yoursite.com/2020/03/04/2020-Week-Progress-March-4th/"/>
+    <id>http://yoursite.com/2020/03/04/2020-Week-Progress-March-4th/</id>
+    <published>2020-03-04T02:29:47.000Z</published>
+    <updated>2020-03-04T03:06:36.606Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="本周目标-03-04-03-06"><a href="#本周目标-03-04-03-06" class="headerlink" title="本周目标(03.04-03.06)"></a>本周目标(03.04-03.06)</h1><ul><li>Began to learn English</li><li>尽量消化任务列表中的堆积工作 </li></ul><h1 id="每日任务安排"><a href="#每日任务安排" class="headerlink" title="每日任务安排"></a>每日任务安排</h1><p>分类：生活(LIF)、锻炼(EXR)、英语(ENG)、科研(RES)、其它(MIS)</p><a id="more"></a><h2 id="CURRENT-TO-DO-LIST"><a href="#CURRENT-TO-DO-LIST" class="headerlink" title="CURRENT TO-DO LIST"></a>CURRENT TO-DO LIST</h2><p>1. RES:阅读Louisa Emmons 和Tand等的文章<br>2. RES:修改research progress<br>3. RES:GCM Subgroup Meeting(2020.03.06)</p><h2 id="Daily-Plan"><a href="#Daily-Plan" class="headerlink" title="Daily Plan"></a>Daily Plan</h2><table><thead><tr><th align="center">分类</th><th align="center">周三(3月4日)</th><th align="center">周四(3月5日)</th><th align="center">周五(3月6日)</th></tr></thead><tbody><tr><td align="center">ENG</td><td align="center">Evening TED Listening</td><td align="center">Morning TED Listening<br>Baicizhan Vocabulary</td><td align="center">Morning TED Listening<br>Baicizhan Vocabulary</td></tr><tr><td align="center">RES</td><td align="center">Paper Reading written by Louisa</td><td align="center">Morning:Paper Reading<br>修改research progress</td><td align="center">修改research progress<br>GCM Subgroup Meeting</td></tr><tr><td align="center">EXR</td><td align="center">About 1 hour</td><td align="center">About 1 hour</td><td align="center">About 1 hour</td></tr><tr><td align="center">MIS</td><td align="center">Play games(1.5hr以内)</td><td align="center">Play games(1.5hr以内)</td><td align="center">Play games at night</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;本周目标-03-04-03-06&quot;&gt;&lt;a href=&quot;#本周目标-03-04-03-06&quot; class=&quot;headerlink&quot; title=&quot;本周目标(03.04-03.06)&quot;&gt;&lt;/a&gt;本周目标(03.04-03.06)&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Began to learn English&lt;/li&gt;
+&lt;li&gt;尽量消化任务列表中的堆积工作 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;每日任务安排&quot;&gt;&lt;a href=&quot;#每日任务安排&quot; class=&quot;headerlink&quot; title=&quot;每日任务安排&quot;&gt;&lt;/a&gt;每日任务安排&lt;/h1&gt;&lt;p&gt;分类：生活(LIF)、锻炼(EXR)、英语(ENG)、科研(RES)、其它(MIS)&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Weekly Progress" scheme="http://yoursite.com/categories/Weekly-Progress/"/>
+    
+    
+      <category term="Spring 2020" scheme="http://yoursite.com/tags/Spring-2020/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
