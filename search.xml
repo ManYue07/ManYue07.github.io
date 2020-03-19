@@ -31,31 +31,32 @@
 <li><input checked="" disabled="" type="checkbox"> MIS: Control game time</li>
 </ul>
 <h2 id="3月17日（周二）"><a href="#3月17日（周二）" class="headerlink" title="3月17日（周二）"></a>3月17日（周二）</h2><ul>
-<li><input disabled="" type="checkbox"> ENG: Morning TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning TED Listening</li>
 <li><input disabled="" type="checkbox"> RES: Analyze the PBLH data</li>
 <li><input disabled="" type="checkbox"> RES: Read Paper</li>
-<li><input disabled="" type="checkbox"> EXR: For one hour</li>
-<li><input disabled="" type="checkbox"> ENG: Baicizhan Vocabulary</li>
-<li><input disabled="" type="checkbox"> MIS: Control game time</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: For one hour</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Baicizhan Vocabulary</li>
+<li><input checked="" disabled="" type="checkbox"> MIS: Control game time</li>
 </ul>
 <h2 id="3月18日（周三）"><a href="#3月18日（周三）" class="headerlink" title="3月18日（周三）"></a>3月18日（周三）</h2><ul>
-<li><input disabled="" type="checkbox"> ENG: Morning TED Listening</li>
-<li><input disabled="" type="checkbox"> ……</li>
-<li><input disabled="" type="checkbox"> EXR: For one hour</li>
-<li><input disabled="" type="checkbox"> ENG: Baicizhan Vocabulary</li>
-<li><input disabled="" type="checkbox"> MIS: Control game time</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Morning TED Listening</li>
+<li><input checked="" disabled="" type="checkbox"> RES: Revision of Research Proposal</li>
+<li><input checked="" disabled="" type="checkbox"> EXR: For one hour</li>
+<li><input checked="" disabled="" type="checkbox"> ENG: Baicizhan Vocabulary</li>
+<li><input checked="" disabled="" type="checkbox"> MIS: Control game time</li>
 </ul>
 <h2 id="3月19日（周四）"><a href="#3月19日（周四）" class="headerlink" title="3月19日（周四）"></a>3月19日（周四）</h2><ul>
 <li><input disabled="" type="checkbox"> ENG: Morning TED Listening</li>
-<li><input disabled="" type="checkbox"> ……</li>
+<li><input disabled="" type="checkbox"> RES: Analyze the data for subgroup meeting</li>
+<li><input disabled="" type="checkbox"> RES: Prepare application materials</li>
 <li><input disabled="" type="checkbox"> EXR: For one hour</li>
 <li><input disabled="" type="checkbox"> ENG: Baicizhan Vocabulary</li>
 <li><input disabled="" type="checkbox"> MIS: Control game time</li>
 </ul>
 <h2 id="3月20日（周五）"><a href="#3月20日（周五）" class="headerlink" title="3月20日（周五）"></a>3月20日（周五）</h2><ul>
 <li><input disabled="" type="checkbox"> ENG: Morning TED Listening</li>
-<li><input disabled="" type="checkbox"> ……</li>
-<li><input disabled="" type="checkbox"> EXR: For one hour</li>
+<li><input disabled="" type="checkbox"> RES: Prepare application materials</li>
+<li><input disabled="" type="checkbox"> RES: Subgroup meeting</li>
 <li><input disabled="" type="checkbox"> ENG: Baicizhan Vocabulary</li>
 <li><input disabled="" type="checkbox"> MIS: Control game time</li>
 </ul>
