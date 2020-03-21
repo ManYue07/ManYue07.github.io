@@ -140,12 +140,15 @@
 <h2 id="Weekly-Warning"><a href="#Weekly-Warning" class="headerlink" title="Weekly Warning"></a><font color=#DC143C ><strong>Weekly Warning</strong></font></h2><ul>
 <li>还是没有动笔，没坚持看文献</li>
 <li>任务完成的有点儿拖沓，需改正</li>
-<li>材料还没准备好<br>&lt;!—# 本周总结<h2 id="Weekly-Achievements-1"><a href="#Weekly-Achievements-1" class="headerlink" title="Weekly Achievements"></a><font color=#0099ff ><strong>Weekly Achievements</strong></font></h2></li>
-<li><h2 id="Weekly-Advisory-1"><a href="#Weekly-Advisory-1" class="headerlink" title="Weekly Advisory"></a><font color=#008000 ><strong>Weekly Advisory</strong></font></h2></li>
-<li><h2 id="Weekly-Warning-1"><a href="#Weekly-Warning-1" class="headerlink" title="Weekly Warning"></a><font color=#DC143C ><strong>Weekly Warning</strong></font></h2></li>
-<li>-&gt;</li>
+<li>材料还没准备好</li>
 </ul>
-]]></content>
+<!---# 本周总结
+## <font color=#0099ff >**Weekly Achievements**</font>
+-   
+## <font color=#008000 >**Weekly Advisory**</font>
+- 
+## <font color=#DC143C >**Weekly Warning**</font>
+-->]]></content>
       <categories>
         <category>Weekly Progress</category>
       </categories>
